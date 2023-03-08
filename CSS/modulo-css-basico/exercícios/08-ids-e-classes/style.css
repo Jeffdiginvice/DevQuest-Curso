@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+p#descrição {
+    background-color: orange;
+}
+
+.descrição-class {
+    background-color: aqua;
+}
+
+.computador-caro {
+    border: solid 2px green;
+}
