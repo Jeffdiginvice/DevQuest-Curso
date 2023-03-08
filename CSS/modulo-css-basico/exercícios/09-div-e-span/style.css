@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+h2 {
+    background-color: aqua;
+}
+
+p {
+
+}
+
+.produto {
+    background-color: aquamarine;
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+}
